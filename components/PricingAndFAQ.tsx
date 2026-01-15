@@ -86,7 +86,7 @@ const PricingAndFAQ: React.FC = () => {
                         </div>
                         <div className="flex flex-col gap-4">
                             {[
-                                { q: 'O Teraflix substitui a terapia tradicional?', a: 'O Teraflix é uma plataforma de educação emocional e autoconhecimento. Nossos conteúdos são terapêuticos e promovam grandes transformações, não é capaz de promover um acompanhamento individualizado, mas o conteúdo que verá aqui, nenhum outro profissional consegue te passar.' },
+                                { q: 'O Teraflix substitui a terapia tradicional?', a: 'O Teraflix é uma plataforma de educação emocional e autoconhecimento. Nossos conteúdos são terapêuticos e geram grandes transformações. Não é capaz de promover um acompanhamento individualizado, mas o conteúdo que verá aqui, nenhum outro profissional consegue te passar.' },
                                 { q: 'Quanto tempo preciso me dedicar por dia?', a: 'O Teraflix foi desenhado para a rotina da mulher moderna. Com apenas 15 a 20 minutos por dia, você já consegue assistir a uma aula completa ou realizar um exercício prático e sentir a diferença na sua semana.' },
                                 { q: 'Posso cancelar quando quiser?', a: 'Sim! No plano mensal, você pode cancelar a qualquer momento sem multa. No plano anual, você tem 7 dias de garantia incondicional para testar a plataforma e pedir reembolso total se não gostar.' }
                             ].map((faq, i) => (
