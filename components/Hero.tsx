@@ -5,11 +5,14 @@ const Hero: React.FC = () => {
     <section className="relative min-h-screen flex items-center justify-start w-full overflow-hidden bg-dark-800">
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
-        <img 
-          alt="Woman looking empowered" 
-          className="w-full h-full object-cover object-center lg:object-[center_20%] opacity-80" 
-          src="http://brunosimplicio.com.br/wp-content/uploads/2026/01/capatera.jpg" 
-        />
+        <picture>
+          <source media="(max-width: 768px)" srcSet="capatera.jpg" />
+          <img 
+            alt="Woman looking empowered" 
+            className="w-full h-auto opacity-80" 
+            src="hero-Teraflix.jpg" 
+          />
+        </picture>
       </div>
 
       {/* Gradients */}
