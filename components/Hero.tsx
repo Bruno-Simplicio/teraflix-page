@@ -8,7 +8,7 @@ const Hero: React.FC = () => {
         <img 
           alt="Woman looking empowered" 
           className="w-full h-full object-cover object-center lg:object-[center_20%] opacity-80" 
-          src="https://lh3.googleusercontent.com/aida-public/AB6AXuBEV61YtX5IcgK6EUP0T4MSoX_U6mf3Y_WcjGmWq-txUfA_aXHE-fOxgdv4lDGdnq1m9vurKjOMe_cn7if4DK9ctEkrfIBTn1tsce4WSd2Vb57AhYixbRsa7kIzIkBxGhdKmcY-CzFu09lUhzeY46ZbA0M4n_NZGURibgqCZ_RI_JjTGAUSs6ibvJKYM9wES5BsfB-7e-ZL1gWwTmiGtiR1m0fiCo_h1L5KO8mHaH38yNGxFFfw3nvxeRK88ChS2Ht9C6H415HARvx0" 
+          src="http://brunosimplicio.com.br/wp-content/uploads/2026/01/hero-Teraflix.jpg" 
         />
       </div>
 
