@@ -6,11 +6,11 @@ const Hero: React.FC = () => {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <picture>
-          <source media="(max-width: 768px)" srcSet="capatera.jpg" />
+          <source media="(max-width: 768px)" srcSet="http://brunosimplicio.com.br/wp-content/uploads/2026/01/capatera.jpg" />
           <img 
             alt="Woman looking empowered" 
             className="w-full h-auto opacity-80" 
-            src="hero-Teraflix.jpg" 
+            src="http://brunosimplicio.com.br/wp-content/uploads/2026/01/hero-Teraflix.jpg" 
           />
         </picture>
       </div>
