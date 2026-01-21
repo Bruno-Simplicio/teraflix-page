@@ -52,7 +52,7 @@ const movies: Movie[] = [
   },
   {
     id: 7,
-    image: "http://brunosimplicio.com.br/wp-content/uploads/2026/01/5-Voce-escolheu-adoecer.jpg2",
+    image: "http://brunosimplicio.com.br/wp-content/uploads/2026/01/5-Voce-escolheu-adoecer.jpg",
     quality: "HD",
     duration: "2h 32m",
     genre: "Doenças",
