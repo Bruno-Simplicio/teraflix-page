@@ -81,7 +81,7 @@ const movies: Movie[] = [
     duration: "3 Ep",
     genre: "Doenças",
     type: "Series"
-  }
+  },
   {
     id: 11,
     image: "http://brunosimplicio.com.br/wp-content/uploads/2026/01/Dependencia-emocional.jpg",
