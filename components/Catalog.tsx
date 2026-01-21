@@ -4,7 +4,7 @@ import { Movie } from '../types';
 const movies: Movie[] = [
   {
     id: 1,
-    image: "http://brunosimplicio.com.br/wp-content/uploads/2026/01/1.jpg",
+    image: "http://brunosimplicio.com.br/wp-content/uploads/2026/01/9-Pilhados-com-a-sogra.jpg",
     quality: "4K",
     duration: "2h 10m",
     genre: "Relacionamento",
@@ -12,23 +12,23 @@ const movies: Movie[] = [
   },
   {
     id: 2,
-    image: "http://brunosimplicio.com.br/wp-content/uploads/2026/01/2.jpg",
+    image: "http://brunosimplicio.com.br/wp-content/uploads/2026/01/4-Relacoes-a-obra.jpg",
     quality: "HD",
     duration: "1h 45m",
-    genre: "Dep. Emocional",
+    genre: "Relacionamento",
     type: "Original"
   },
   {
     id: 3,
-    image: "http://brunosimplicio.com.br/wp-content/uploads/2026/01/3.jpg",
+    image: "http://brunosimplicio.com.br/wp-content/uploads/2026/01/10-Casamento-as-meias-entregas.jpg",
     quality: "4K",
-    duration: "6 Ep",
-    genre: "Doenças",
-    type: "Series"
+    duration: "5 Ep",
+    genre: "Relacionamento",
+    type: "Série"
   },
   {
     id: 4,
-    image: "http://brunosimplicio.com.br/wp-content/uploads/2026/01/4.jpg",
+    image: "http://brunosimplicio.com.br/wp-content/uploads/2026/01/1-Voce-tem-do-de-macho.jpg",
     quality: "HD",
     duration: "2h 05m",
     genre: "Relacionamento",
@@ -36,18 +36,58 @@ const movies: Movie[] = [
   },
   {
     id: 5,
-    image: "http://brunosimplicio.com.br/wp-content/uploads/2026/01/5.jpg",
-    quality: "4K",
-    duration: "1h 50m",
+    image: "http://brunosimplicio.com.br/wp-content/uploads/2026/01/2-Desvendando-Voce.jpg",
+    quality: "HD",
+    duration: "10 Ep",
+    genre: "Terapia",
+    type: "Série"
+  },
+  {
+    id: 6,
+    image: "http://brunosimplicio.com.br/wp-content/uploads/2026/01/3-Como-atrair-um-bom-homem.jpg",
+    quality: "HD",
+    duration: "1h 10m",
+    genre: "Relacionamento",
+    type: "Original"
+  },
+  {
+    id: 7,
+    image: "http://brunosimplicio.com.br/wp-content/uploads/2026/01/5-Voce-escolheu-adoecer.jpg2",
+    quality: "HD",
+    duration: "2h 32m",
+    genre: "Doenças",
+    type: "Original"
+  },
+  {
+    id: 8,
+    image: "http://brunosimplicio.com.br/wp-content/uploads/2026/01/6-Pare-de-ter-do-do-seu-marido.jpg",
+    quality: "HD",
+    duration: "2 Ep",
+    genre: "Relacionamento",
+    type: "Series"
+  },
+  {
+    id: 9,
+    image: "http://brunosimplicio.com.br/wp-content/uploads/2026/01/7-Combo-de-personalidade.jpg",
+    quality: "HD",
+    duration: "1h 16m",
     genre: "Terapia",
     type: "Original"
   },
   {
-    id: 6,
-    image: "http://brunosimplicio.com.br/wp-content/uploads/2026/01/6.jpg",
+    id: 10,
+    image: "http://brunosimplicio.com.br/wp-content/uploads/2026/01/8-Mapa-das-doencas.jpg",
     quality: "HD",
-    duration: "8 Ep",
-    genre: "Traumas",
+    duration: "3 Ep",
+    genre: "Doenças",
+    type: "Series"
+  }
+  {
+    id: 11,
+    image: "http://brunosimplicio.com.br/wp-content/uploads/2026/01/Dependencia-emocional.jpg",
+    quality: "HD",
+    duration: "6 Ep",
+    genre: "Dep. Emocional",
     type: "Series"
   }
 ];
